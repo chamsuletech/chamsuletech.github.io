@@ -70,3 +70,9 @@ tags:   Resources
 - 단, 저장 버튼 누르고 '완료 되었습니다.' 라는 팝업 창이 나올 때까지 종료 금지 (도중 닫아버리면 데이터 생성이 모두 안됨)
 * 생성 후, Query Browser 들어가서 dev_info에서 엑셀 기초 자료 개수 만큼 Dev_id 생성되면 성공적으로 완료
 
+![]({{ site.baseurl }}/images/basicproc3.jpg)
+
+* CPLSViewer 폴더 안의 CPLSViewer-아이콘 프로그램 실행
+* Query Browser 테이블 중 2개의 테이블 확인 (ID: lpsadmin / PW: lpsadmin)
+- Dev_Icon_Floor = 카메라 아이콘 배치 테이블
+- Park_Icon_Floor = 주차 아이콘 배치 테이블
