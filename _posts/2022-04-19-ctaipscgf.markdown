@@ -10,6 +10,7 @@ tags:   Resources
 ## 1. 차번 영역 프로그램 실행 방법
 
 ![]({{ site.baseurl }}/images/carnumarea.jpg)
+*Minimalism*
 
 1. 해당 프로그램을 실행 한다.
 2. 12면 카메라 세팅은 위쪽 체크박스 클릭
