@@ -9,8 +9,7 @@ tags:   Resources
 
 ## 1. 차번 영역 프로그램 실행 방법
 
-![]({{ site.baseurl }}/images/carnumarea.jpg)
-*Minimalism*
+![]({{ site.baseurl }}/images/11.jpg)
 
 1. 해당 프로그램을 실행 한다.
 2. 12면 카메라 세팅은 위쪽 체크박스 클릭
@@ -25,7 +24,6 @@ tags:   Resources
 * 1~12번까지의 숫자는 아이콘 배치에 따라 순서가 달라질수도 있음.
 
 ![]({{ site.baseurl }}/images/carnumarea12_1.jpg)
-
 ![]({{ site.baseurl }}/images/carnumarea12_2.jpg)
 
 * 정보 저장 클릭 후 저장 파일은 프로그램 안의 'data' 폴더안에 저장 됨.
