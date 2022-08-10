@@ -5,22 +5,35 @@ permalink: /about/
 image: 01.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+안녕하세요?
+<strong>주식회사 참슬테크 연구소</strong> 기술블로그에 방문해 주신 여러분 진심으로 환영합니다. 
+기술블로그에서는 저희가 보유하고 있는 다양한 기술들의 공유와 앞으로 진행 될 기술들의 소개와 유용한 Data들의 공유를 하고자 개시 되었습니다.
+건축분야가 폐쇄적이며 공유하는 문화가 아직 미흡한 부분이 있으나, 더 나은 방향과 서비스를 제공하기 위한 업체가 되고자 개발 연구소의 블로그를 만들었습니다.
+많은 참여 부탁드립니다.
 
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### 한정태
+<small>2007 - 2022</small>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+소프트웨어 총괄 팀장
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+#### 최준혁
+<small>2012 - 2022</small>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+Winform 프로그램 개발, IOS 개발
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+#### 김민수
+<small>2022 - 2022</small>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+Web 관련 프로그램 총괄
+
+#### 이한솔
+<small>2019 - 2022</small>
+
+Winform 프로그램 개발 및 설정
+
+#### 장성은
+<small>2020 - 2022</small>
+
+Web 관련 프로그램 개발, Android 개발
