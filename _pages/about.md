@@ -13,27 +13,4 @@ image: 01.jpg
 
 ***
 
-#### 한정태
-<small>2007 - 2022</small>
-
-소프트웨어 총괄 팀장
-
-#### 최준혁
-<small>2012 - 2022</small>
-
-Winform 프로그램 개발, IOS 개발
-
-#### 김민수
-<small>2022 - 2022</small>
-
-Web 관련 프로그램 총괄
-
-#### 이한솔
-<small>2019 - 2022</small>
-
-Winform 프로그램 개발 및 설정
-
-#### 장성은
-<small>2020 - 2022</small>
-
-Web 관련 프로그램 개발, Android 개발
+Firmware 개발, PCB 제작, Web 관련 프로그램 개발
