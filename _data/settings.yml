@@ -9,7 +9,7 @@ description: by msk
 # Author Settings
 author:
   name: Chamsule
-  image: 01.jpg
+  image: cst.PNG
   say-hello: Welcome to <strong>Chamsule Tech</strong>
   bio: 참슬테크 기술 블로그
 
@@ -18,10 +18,9 @@ author:
 # Contact links
 # twitter: https://twitter.com/ # Add your Twitter handle
 # facebook: https://facebook.com/ # Add your Facebook handle
-# dribbble: https://dribbble.com/ # Add your Dribbble handle
+dribbble: https://band.us/band/4581776 # Add your Dribbble handle
 # instagram: https://instagram.com/ # Add your Instagram handle
 # pinterest: https://pinterest.com/ # Add your Pinterest handle
-
 
 #-------------------------------
 # Comment Section (Disqus)
