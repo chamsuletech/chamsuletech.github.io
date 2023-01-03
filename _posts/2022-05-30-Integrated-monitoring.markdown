@@ -7,6 +7,8 @@ tags:   Resources
 ---
 참슬테크에서 개발된 HW, SW에 대한 아이템들 입니다.
 
+[Chamsuletech Monitoring](http://141.164.47.6:8080/)
+
 ***
 
 ## 12면 주차유도
