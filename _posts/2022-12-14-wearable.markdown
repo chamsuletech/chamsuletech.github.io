@@ -5,7 +5,7 @@ date:   2022-12-14 10:33:35 +0300
 image:  09.jpg
 tags:   Resources
 ---
-참슬테크에서 만든 Wearable 기술문서입니다.
+참슬테크에서 만든 웨어러블 외부 동작 기술문서입니다.
 
 ***
 
@@ -34,33 +34,43 @@ BLE 방식은 Bluetooth Low Energy 방식으로 웨어러블 기기가 다른 �
 웨어러블 기기는 내부에 있는 NFC 모듈의 고유 번호를 변환하여 8-Byte Data의 KEY ID로 사용합니다. 웨어러블 기기는 NFC Reader의 기능이 없기 때문에 자신의 NFC 모듈의 고유 번호를 스스로 생성 할 수 없으므로 NFC Reader와 BLE 송수신 기능이 있는 양산 등록기에 근접태그를 하여 등록과 관련된 BLE 신호를 수신하고 해당 KEY ID를 저장 합니다.
 
 ![통신시퀀스 - 양산등록기]({{ site.baseurl }}/images/wearable/시퀀스_KEY ID 등록.png)
+*통신 시퀀스 – 양산등록기*
 
 ![FlowChart]({{ site.baseurl }}/images/wearable/Flow Chart_KEY ID 등록.png)
+*Flow Chart*
 
 ### 시간 동기화
 웨어러블 기기는 Main Core와 별개로 시간을 측정하는 RTC 없이 Main Core의 Timer로 시간을 측정하기 때문에 시간 측정에 대하여 정밀하지 못하고, 재부팅시 현재 시간이 초기화 됩니다. 이러한 이유로 현재 시간을 표시하기 위해 외부 기기(스마트폰)에서 시간 데이터를 주기적으로 요청하여 현재 시간을 표시 합니다. 시간 동기화는 기기가 부팅하고 즉시 진행하며 시간 동기화에 성공하면 86400초(24시간) 이후에 재 진행하고, 시간 동기화에 실패하면 3600초(1시간) 이후에 재 진행 합니다. 또한, 메인 화면에서 시간이 표시되는 구역을 누르면 즉시 시간 동기화를 진행 합니다.
 
 ![통신 시퀀스 – 스마트폰]({{ site.baseurl }}/images/wearable/시퀀스_시간 동기화.png)
+*통신 시퀀스 – 스마트폰*
 
 ![FlowChart]({{ site.baseurl }}/images/wearable/Flow Chart_시간 동기화.png)
+*Flow Chart*
 
 ### 주차 위치 확인
 웨어러블 기기 Ver 1.0.1에서는 외부 기기(ex. 비상벨, 만공등)에서 기둥 정보를 보내주는 주차 위치 비콘 신호들을 SCAN 하여 신호의 세기가 가장 강한 신호의 주차 위치를 표시하는 ‘자기 판단형’의 주차 위치 확인만 가능 합니다.
 
 ![통신 시퀀스 – 비상벨]({{ site.baseurl }}/images/wearable/시퀀스_주차 위치 확인.png)
+*통신 시퀀스 – 비상벨*
 
 ![FlowChart]({{ site.baseurl }}/images/wearable/Flow Chart_주차 위치 확인.png)
+*Flow Chart*
 
 ### 공동 현관 인증
 웨어러블 기기는 공동 현관 비콘 신호를 SCAN 하면 KEY ID와 문열림 데이터를 전송하여 공동 현관 인증을 합니다. 공동 현관 인증을 위해 웨어러블 기기는 BLE 신호에 대하여 상시적으로 SCAN 하고 있습니다.
 
 ![통신 시퀀스 – 공동 현관 리더기]({{ site.baseurl }}/images/wearable/시퀀스_공동 현관 인증.png)
+*통신 시퀀스 – 공동 현관 리더기*
 
 ![FlowChart]({{ site.baseurl }}/images/wearable/Flow Chart_공동 현관 인증.png)
+*Flow Chart*
 
 ### 출입 위치 확인
 공동 현관 리더기는 FMCW로 모션 인식 및 방향을 탐지합니다. 이때 현장에 따라 건물 내부에서 외부로 나오는 것을 확실하게 인식하기 위해 ‘EV-Hall 리더기’를 추가로 설치한다. 웨어러블 기기는 EV-Hall 리더기 비콘 신호를 수신하면 공동현관 인증 신호를 전송하지 않습니다.
 
 ![통신 시퀀스 – EV-Hall 리더기]({{ site.baseurl }}/images/wearable/시퀀스_출입 위치 확인.png)
+*통신 시퀀스 – EV-Hall 리더기*
 
 ![FlowChart]({{ site.baseurl }}/images/wearable/Flow Chart_출입 위치 확인.png)
+*Flow Chart*
