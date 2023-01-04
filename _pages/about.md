@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: cst01.PNG
+image: cst01.jpg
 ---
 
 안녕하세요?
